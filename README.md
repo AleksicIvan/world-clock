@@ -1,6 +1,6 @@
 # World-clock
 
-TThis is my first web app ever. I would like to thank Mozilla MDN, JSBelgrade group,  Anthony Alicea from Udemy and Gordon Zhu and his work on annotated Eloquent JavaScript version.
+This is my first web app ever. I would like to thank Mozilla MDN, JSBelgrade group,  Anthony Alicea from Udemy and Gordon Zhu and his work on annotated Eloquent JavaScript version.
 
 ## Prerequisites
 
